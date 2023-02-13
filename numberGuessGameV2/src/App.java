@@ -1,3 +1,4 @@
+//i added difficulties to the game
 import java.util.*;
 
 public class App {
